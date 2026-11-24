@@ -1,8 +1,10 @@
 # Hi, I'm Roy 👋
 
-I'm a Front-End Engineer with experience building modern web applications using Next.js, React, TypeScript, and Tailwind CSS.
+I'm a Front-End Engineer with 5+ years of experience building modern web applications using React, Next.js, TypeScript, and modern frontend technologies.
 
-🚀 Currently expanding my expertise toward Full-Stack Engineering, focusing on backend development, API design, and database integration with Node.js, NestJS, Python, MySQL, and PostgreSQL.
+I focus on building maintainable, scalable, and high-performance web applications, with experience in component architecture, state management, API integration, and frontend performance optimization.
+
+Recently, I'm also exploring AI-Assisted Development and Spec-Driven Development to improve development workflow, code quality, testing, and delivery efficiency.
 
 ## 🧑‍💻 Tech Stack
 
@@ -39,11 +41,11 @@ I'm a Front-End Engineer with experience building modern web applications using 
 
 ## 🌱 Currently Learning
 
-- Backend Development: Node.js, NestJS, Python
-- Databases: MySQL, PostgreSQL, SQL, database design
-- Full-Stack Development: RESTful APIs, frontend-backend integration
-- AI-Assisted Development: Spec-driven development with AI
-- Performance: Next.js advanced caching and frontend optimization
+- Next.js App Router, Server Components, and Caching Strategies
+- Frontend Performance Optimization & Web Vitals
+- Testing and Code Quality
+- AI-Assisted Development & Spec-Driven Development
+- Modern Frontend Development Workflows
 
 ## 📫 Contact
 
